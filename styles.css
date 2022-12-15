@@ -20,6 +20,7 @@ img {
     transform: translatey(-50%);
     width: 95%;
     align-items: center;
+    margin-left: -15px;
 }
 
 .link {
